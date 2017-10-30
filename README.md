@@ -1,3 +1,3 @@
-# Studies
+# Old
 
-This repository contains some simple codes from my drills.
+This repository contains some simple codes from my old drills.
